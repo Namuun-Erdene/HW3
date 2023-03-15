@@ -18,6 +18,7 @@ header {
 #main-layout{
     display: flex;
     justify-content: space-around;
+    padding-left: 150px;
 }
 .logo{
       float: left;
